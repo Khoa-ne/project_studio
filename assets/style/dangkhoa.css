@@ -73,3 +73,29 @@ h3.title_main span {
   text-transform: uppercase;
   color: #060606;
 }
+
+/* feedback */
+.title_content .testimonials_grid {
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 0 20px 62px rgba(4, 20, 69, 0.1);
+  padding: 2rem;
+}
+.testi-img-res img {
+  border-radius: 50%;
+  width: 60px;
+}
+.sub-author-con {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+  grid-gap: 5px;
+  margin-top: 1.5em;
+}
+.testi_grid h5 {
+  font-weight: 600;
+  line-height: 16px;
+}
+.testi_grid p{
+  font-size: 13px;
+    color: #707070;
+}
