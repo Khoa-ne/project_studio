@@ -167,10 +167,7 @@ h4.title-head {
 .rightside-form {
   display: flex;
 }
-.right-side {
-   margin: 0 2em;
-   display: flex;
-}
+
 form.rightside-form input {
   background: transparent;
   border: none;
@@ -268,4 +265,10 @@ ul.social li a i {
 .copyright-footer {
   background: #040a17;
   padding: 20px 0;
+}
+iframe{
+  width: 50%;
+  height: 500px;
+  align-items: center;
+  margin: 0 400px;
 }
